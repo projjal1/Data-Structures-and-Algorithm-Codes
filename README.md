@@ -1,4 +1,4 @@
-#Data Structures and Algorithms
+<h1>Data Structures and Algorithms</h1>
 
 This repo contains the code for "Basic DS and Algo" with implementation for basic data structures.
 
