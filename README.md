@@ -4,7 +4,7 @@ This repo contains the code for "Basic DS and Algo" with implementation for basi
 
 <hr>
 
-Codes are written in <b>C</b> language.
+Codes are written in <b>C,Python</b> language.
 
 <hr>
 
