@@ -35,6 +35,7 @@ def solve(array, n, K):
 	start = 1
 	end = 0
 
+    #Summation of all elements in the array
 	for i in range(n): 
 		end += array[i] 
 
@@ -56,8 +57,8 @@ def solve(array, n, K):
 
 # Driver Code 
 if __name__ == '__main__': 
-	array = [1, 2, 3, 4] 
+	array = list(map(int,input("Enter the array elements: ").split())) 
 	n = len(array) 
-	K = 3
+	K = int(input("No. of subarrays: "))
 	print(solve(array, n, K)) 
 	
