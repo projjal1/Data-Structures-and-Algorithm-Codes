@@ -8,4 +8,4 @@ Codes are written in <b>C,Python</b> language.
 
 <hr>
 
-Compile them using GCC compiler and run.
+Compile them using GCC, Python3 compiler and run.
